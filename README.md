@@ -8,3 +8,4 @@ Data will be mostly focused on state of Rio de Janeiro.
    * Security
    * Mobility
    * Education
+   * Social Data
