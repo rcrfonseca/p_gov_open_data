@@ -1,11 +1,3 @@
-# Open Data from Brazilian Government
+# Open Data Project
 
-This project aims to create analysis based on public data from brazilian governmental portals.
-
-Data will be mostly focused on state of Rio de Janeiro.
-
-* Areas intended to have projects:
-   * Security
-   * Mobility
-   * Education
-   * Social Data
+This project aims to create reports on public data, mostly focused on Brazilian governmental portals, social media, and citizen's open data, although not limited to. Projects will be diverse, including the following areas: security, mobility, education, social data, and financial.
